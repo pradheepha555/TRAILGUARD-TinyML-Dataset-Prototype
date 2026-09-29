@@ -1,0 +1,42 @@
+[
+  {
+    "path": "data tinyMl/",
+    "bytes": 0,
+    "crc32": 0
+  },
+  {
+    "path": "data tinyMl/accdata.csv",
+    "bytes": 1638434,
+    "crc32": 1303377264
+  },
+  {
+    "path": "data tinyMl/accdata.zip",
+    "bytes": 34794364,
+    "crc32": 1228862590
+  },
+  {
+    "path": "data tinyMl/data_subjects_info.csv",
+    "bytes": 409,
+    "crc32": 567002534
+  },
+  {
+    "path": "data tinyMl/PPG_Dataset.csv",
+    "bytes": 63798840,
+    "crc32": 360289641
+  },
+  {
+    "path": "data tinyMl/sessions.csv",
+    "bytes": 1908,
+    "crc32": 3748674890
+  },
+  {
+    "path": "data tinyMl/test.csv",
+    "bytes": 19324796,
+    "crc32": 3356177595
+  },
+  {
+    "path": "data tinyMl/train.csv",
+    "bytes": 39651,
+    "crc32": 1052487115
+  }
+]
